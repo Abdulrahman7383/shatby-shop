@@ -7,8 +7,7 @@ A modern, fully responsive, and feature-rich E-commerce web application designed
 ---
 
 ## 🚀 Live Demo & Screenshots
-* Live Link: [Insert Your Live Demo URL Here, e.g., https://shatby-shop.vercel.app]
-* Admin Credentials: Email: admin@shatby.com | Password: admin123 (For testing purposes)
+* Live Link: [Insert Your Live Demo URL Here, e.g.,https://www.alshatbichemical.com/]
 
 (Tip: Add 2-3 high-quality screenshots or a GIF showcasing the Homepage and Admin Dashboard below)
 
